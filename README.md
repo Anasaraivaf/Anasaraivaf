@@ -2,9 +2,9 @@
 
 **`Desenvolvedora Full Stack`**
 
-Me chamo Ana Caroline Saraiva, tenho 24 anos e sou natural de Pernambuco. Concluí o ensino médio com formação técnica em Informática pela E.E. Laércio Surim. Sou formada em Análise e Desenvolvimento de Sistemas pela Universidade Nove de Julho, com foco em desenvolvimento de software.
+Me chamo Ana Caroline Saraiva, tenho 24 anos e sou natural de Pernambuco. Sou formada em Análise e Desenvolvimento de Sistemas pela Universidade Nove de Julho.
 
-Tenho experiência prática no desenvolvimento de aplicação financeira multiplataforma (web, mobile e desktop), atuando tanto no front-end quanto no back-end. Busco evoluir constantemente na área de tecnologia, com interesse em desenvolvimento full stack e criação de soluções digitais.
+Tenho experiência prática no desenvolvimento de aplicação financeira multiplataforma (web, mobile e desktop), atuando tanto no Full Stack. Busco evoluir constantemente na área de tecnologia.
 
 ---
 
@@ -78,36 +78,16 @@ Tenho experiência prática no desenvolvimento de aplicação financeira multipl
 <br/>
 <br/>
 
----
 
-### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="180" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="Top Langs" 
-      height="180" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
-  />
-
-</p>
-
-<br/>
-<br/>
 
 ---
+
+
 
 ### 🚀 Sobre mim
 
-- 💻 Desenvolvedora Full Stack em início de carreira  
+- 💻 Desenvolvedora Full Stack 
 - 📊 Experiência com aplicação financeira multiplataforma  
 - 🔧 Atuação com análise de sistemas e suporte técnico  
 - 📚 Sempre estudando e evoluindo na área de tecnologia  
@@ -117,7 +97,7 @@ Tenho experiência prática no desenvolvimento de aplicação financeira multipl
 ### 📫 Contato
 
 - 📧 anacarolinefeques@gmail.com  
-- 💼 LinkedIn: (coloque seu link aqui)  
-- 💻 GitHub: https://github.com/SEU_USUARIO
+- 💼 LinkedIn: https://www.linkedin.com/in/ana-saraiva-09b623323/
+- 💻 GitHub: https://github.com/Anasaraivaf
 
 
